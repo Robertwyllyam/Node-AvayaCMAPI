@@ -22,7 +22,7 @@ The action you want to do with the target object. For instance, if you want to g
 - Qualifier
 The filter parameter. You can use it with the operations to filter specific objects. For instance: You can use display operation with an Agent Login ID in order to show its details.
 
--Target
+- Target
 The model you want to perform the operation. It could an agent, authorization code, station or any object available at SMS API.
 
 - TargetObject
